@@ -1,0 +1,28 @@
+body{
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 80%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: antiquewhite;
+    font: 700px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
